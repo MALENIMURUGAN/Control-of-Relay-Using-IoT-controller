@@ -1,6 +1,6 @@
 ## Exp-2: Control of Relay Using IoT controller
-# NAME: MALENI M
-# REGISTER NO: 212223040110
+## NAME: MALENI M
+## REGISTER NO: 212223040110
 ##  AIM:
 To control the Relay using Arduino controller
 
@@ -44,9 +44,11 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 ## CIRCUIT DIAGRAM:
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/57912b70-d73b-4961-9c23-5ba925799f48)
-
+OFF:
 ![image](https://github.com/user-attachments/assets/0cb4f90f-75b6-4efc-bea5-fdda060861d3)
+
+ON:
+![image](https://github.com/user-attachments/assets/57912b70-d73b-4961-9c23-5ba925799f48)
 
 ## RESULT:
 
